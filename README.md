@@ -5,5 +5,6 @@ Vendor Maintenance Program is a interactive COBOL Program that allows the user t
 
 Build + Run
 ---------------------------
-cobc -x -o a.out INTVENDR.cbl<br/>
-./a.out
+
+  cobc -x -o a.out INTVENDR.cbl<br/>
+  ./a.out
